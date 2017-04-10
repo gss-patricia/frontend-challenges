@@ -42,5 +42,6 @@ Escolha a linguagem e comece o desafio.
   <li><a href="http://flexboxfroggy.com/" target="_blank" title="Flexbox Froggy">Flexbox Froggy</a></li>
   <li><a href="http://cssgridgarden.com/" target="_blank" title="CSS Grid Garden">CSS Grid Garden</a></li>
   <li><a href="http://100dayscss.com/" target="_blank" title="100 Days CSS">100 Days CSS</a></li>
+  <li><a href="http://dailycssimages.com" target="_blank" title="Daily CSS Images">Daily Css Images</a></li>
 </ul>
 
