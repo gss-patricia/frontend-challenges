@@ -32,6 +32,7 @@ Escolha a linguagem e comece o desafio.
 
 <ul>
   <li><a href="https://www.codewars.com/" target="_blank" title="Code Wars">Code Wars</a></li>
+  <li><a href="https://javascript30.com/" target="_blank" title="Javascript 30">Javascript 30</a></li>
 </ul>
 
 
