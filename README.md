@@ -14,7 +14,7 @@ Caso, você conheça algum desafio que não esteja listado aqui, adorariamos acr
 
 ## Desafios Outras Linguagens
 
-Escolha a linguagem e comece o desafio.
+Além do Javascript aqui você encontra outras linguagens. Escolha a linguagem e comece o desafio.
 
 <ul>
   <li><a href="https://coderbyte.com/" target="_blank" title="Coder Byte">Coder Byte</a></li>
