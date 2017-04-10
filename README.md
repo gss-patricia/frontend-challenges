@@ -2,7 +2,7 @@
 
 > Em constante evolução
 
-Lista com os principais desafios Javascript e CSS, pois acredito que aprender se divertindo é a melhor maneira.
+Lista com os principais desafios Javascript, CSS e outras linguagens, pois acredito que aprender se divertindo é a melhor maneira.
 
 Caso, você conheça algum desafio que não esteja listado aqui, adorariamos acrescentar em nossa lista.
 
