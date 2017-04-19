@@ -33,7 +33,7 @@ Além do Javascript aqui você encontra outras linguagens. Escolha a linguagem e
 <ul>
   <li><a href="https://www.codewars.com/" target="_blank" title="Code Wars">Code Wars</a></li>
   <li><a href="https://javascript30.com/" target="_blank" title="Javascript 30">Javascript 30</a></li>
-  <li><a href="http://rileyjshaw.com/challenger/" target="_blank" title="Javascript 30">Challenger.js</a></li>
+  <li><a href="http://rileyjshaw.com/challenger/" target="_blank" title="Challenger.js">Challenger.js</a></li>
 </ul>
 
 
@@ -43,6 +43,7 @@ Além do Javascript aqui você encontra outras linguagens. Escolha a linguagem e
   <li><a href="http://flexboxfroggy.com/" target="_blank" title="Flexbox Froggy">Flexbox Froggy</a></li>
   <li><a href="http://cssgridgarden.com/" target="_blank" title="CSS Grid Garden">CSS Grid Garden</a></li>
   <li><a href="http://100dayscss.com/" target="_blank" title="100 Days CSS">100 Days CSS</a></li>
-  <li><a href="http://dailycssimages.com" target="_blank" title="Daily CSS Images">Daily Css Images</a></li>
+  <li><a href="http://dailycssimages.com/" target="_blank" title="Daily CSS Images">Daily Css Images</a></li>
+  <li><a href="https://flukeout.github.io/" target="_blank" title="CSS Diner">CSS Diner</a></li>
 </ul>
 
