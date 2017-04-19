@@ -33,6 +33,7 @@ Além do Javascript aqui você encontra outras linguagens. Escolha a linguagem e
 <ul>
   <li><a href="https://www.codewars.com/" target="_blank" title="Code Wars">Code Wars</a></li>
   <li><a href="https://javascript30.com/" target="_blank" title="Javascript 30">Javascript 30</a></li>
+  <li><a href="http://rileyjshaw.com/challenger/" target="_blank" title="Javascript 30">Challenger.js</a></li>
 </ul>
 
 
