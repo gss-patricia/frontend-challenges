@@ -18,6 +18,7 @@ Além do Javascript aqui você encontra outras linguagens. Escolha a linguagem e
 
 <ul>
   <li><a href="https://coderbyte.com/" target="_blank" title="Coder Byte">Coder Byte</a></li>
+  <li><a href="https://www.hackerrank.com/" target="_blank" title="Hacker Rank">Hacker Rank</a></li>
   <li><a href="https://www.codeeval.com" target="_blank" title="Code Eval">Code Eval</a></li>
   <li><a href="https://br.codecombat.com/" target="_blank" title="Code Combat">Code Combat</a></li>
   <li><a href="https://www.codingame.com/" target="_blank" title="CodinGame">CodinGame</a></li>
