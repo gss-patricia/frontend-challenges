@@ -27,6 +27,7 @@ Além do Javascript aqui você encontra outras linguagens. Escolha a linguagem e
   <li><a href="https://empireofcode.com/" target="_blank" title="Empire of Code">Empire of Code</a></li>
   <li><a href="https://codefights.com/" target="_blank" title="Code Fights">Code Fights</a></li>
   <li><a href="https://www.topcoder.com/" target="_blank" title="Top Coder">Top Coder</a></li>
+  <li><a href="https://www.reddit.com/r/dailyprogrammer/" target="_blank" title="Reddit">Reddit - Dailyprogrammer</a></li>
 </ul>
 
 ## Desafios Javascript
