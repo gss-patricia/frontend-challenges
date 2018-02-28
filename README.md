@@ -29,6 +29,7 @@ Além do Javascript aqui você encontra outras linguagens. Escolha a linguagem e
   <li><a href="https://www.topcoder.com/" target="_blank" title="Top Coder">Top Coder</a></li>
   <li><a href="https://www.reddit.com/r/dailyprogrammer/" target="_blank" title="Reddit">Reddit - Dailyprogrammer</a></li>
   <li><a href="http://www.pythonchallenge.com/" target="_blank" title="Python Challenge">Python Challenge</a></li>
+  <li><a href="http://devtoolschallenger.com/" target="_blank" title="DevTools Challenger">DevTools Challenger</a></li>
 </ul>
 
 ## Desafios Javascript
