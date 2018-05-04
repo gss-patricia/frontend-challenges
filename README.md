@@ -52,5 +52,6 @@ Além do Javascript aqui você encontra outras linguagens. Escolha a linguagem e
   <li><a href="https://flukeout.github.io/" target="_blank" title="CSS Diner">CSS Diner</a></li>
   <li><a href="http://www.flexboxdefense.com/" target="_blank" title="Flexbox Defense">Flexbox Defense</a></li>
   <li><a href="http://www.dailyui.co/" target="_blank" title="Daily UI">Daily UI</a></li>
+  <li><a href="https://frontloops.io/" target="_blank" title="Frontloops.io">Frontloops.io</a></li>
 </ul>
 
