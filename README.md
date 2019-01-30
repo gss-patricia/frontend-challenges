@@ -1,4 +1,4 @@
-# frontend-challenges
+# coding-challenges
 
 > Em constante evolução
 
