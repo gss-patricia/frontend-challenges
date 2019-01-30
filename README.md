@@ -55,3 +55,10 @@ Além do Javascript aqui você encontra outras linguagens. Escolha a linguagem e
   <li><a href="https://frontloops.io/" target="_blank" title="Frontloops.io">Frontloops.io</a></li>
 </ul>
 
+## Desafios Algoritmos - várias linguagens
+<ul>
+  <li><a href="https://leetcode.com" target="_blank" title="Flexbox Froggy">Leet Code</a></li>
+</ul>
+
+
+
