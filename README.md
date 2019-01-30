@@ -31,6 +31,7 @@ Além do Javascript aqui você encontra outras linguagens. Escolha a linguagem e
   <li><a href="http://www.pythonchallenge.com/" target="_blank" title="Python Challenge">Python Challenge</a></li>
   <li><a href="http://devtoolschallenger.com/" target="_blank" title="DevTools Challenger">DevTools Challenger</a></li>
   <li><a href="https://www.codechef.com" target="_blank" title="Code Chef">Code Chef</a></li>
+  <li><a href="https://practice.geeksforgeeks.org" target="_blank" title="Geeks for Geeks">Geeks for Geeks</a></li>
 </ul>
 
 ## Desafios Javascript
