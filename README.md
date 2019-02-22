@@ -69,3 +69,7 @@ Além do Javascript aqui você encontra outras linguagens. Escolha a linguagem e
 
 
 
+## Git
+<ul>
+  <li><a href="http://aprenda.vidageek.net/aprenda/git" target="_blank" title="Aprenda Git">Aprenda Git - vidageek</a></li>
+</ul>
