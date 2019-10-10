@@ -47,6 +47,7 @@ Além do Javascript aqui você encontra outras linguagens. Escolha a linguagem e
   <li><a href="https://javascript30.com/" target="_blank" title="Javascript 30">Javascript 30</a></li>
   <li><a href="http://rileyjshaw.com/challenger/" target="_blank" title="Challenger.js">Challenger.js</a></li>
   <li><a href="https://screeps.com/" target="_blank" title="MMO sandbox game for programmers">MMO sandbox game for programmers</a></li>
+  <li><a href="https://js.checkio.org/" target="_blank" title="JS Checkio">JS Checkio</a></li>
 </ul>
 
 
@@ -66,6 +67,7 @@ Além do Javascript aqui você encontra outras linguagens. Escolha a linguagem e
 ## Desafios Algoritmos - várias linguagens
 <ul>
   <li><a href="https://leetcode.com" target="_blank" title="Leet Code">Leet Code</a></li>
+  <li><a href="https://www.urionlinejudge.com.br" target="_blank" title="URI Online Judge">URI Online Judge</a></li>
 </ul>
 
 
