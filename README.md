@@ -9,15 +9,17 @@ List of best coding challenges and resources to help new and intermediate develo
 
 Caso, você conheça algum desafio que não esteja listado aqui, adorariamos acrescentar em nossa lista.
 
-> If you know of any challenges that aren't listed here, we would love to add you to our list.
+> If you know of any challenges that aren't listed here, we would like to add it in our list.
 
 **Sumário**
+> Sumary
 
 - [Desafios Javascript](#desafios-javascript)
 - [Desafios CSS](#desafios-css)
 - [Desafios Outras Linguages](#desafios-outras-linguagens)
 
 ## Desafios Outras Linguagens
+> Other languages challenges
 
 Além do Javascript aqui você encontra outras linguagens. Escolha a linguagem e comece o desafio.
 
@@ -41,6 +43,7 @@ Além do Javascript aqui você encontra outras linguagens. Escolha a linguagem e
 </ul>
 
 ## Desafios Javascript
+> Javascript Challenges
 
 <ul>
   <li><a href="https://www.codewars.com/" target="_blank" title="Code Wars">Code Wars</a></li>
@@ -52,6 +55,7 @@ Além do Javascript aqui você encontra outras linguagens. Escolha a linguagem e
 
 
 ## Desafios CSS
+> CSS Challenges
 
 <ul>
   <li><a href="http://flexboxfroggy.com/" target="_blank" title="Flexbox Froggy">Flexbox Froggy</a></li>
@@ -65,6 +69,7 @@ Além do Javascript aqui você encontra outras linguagens. Escolha a linguagem e
 </ul>
 
 ## Desafios Algoritmos - várias linguagens
+> Algorithm Challenges - various languages
 <ul>
   <li><a href="https://leetcode.com" target="_blank" title="Leet Code">Leet Code</a></li>
   <li><a href="https://www.urionlinejudge.com.br" target="_blank" title="URI Online Judge">URI Online Judge</a></li>
