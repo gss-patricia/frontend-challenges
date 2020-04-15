@@ -5,7 +5,7 @@
 Lista com os principais desafios Javascript, CSS e outras linguagens, pois acredito que aprender se divertindo é a melhor maneira.
 
 > A great way to improve your skills when learning to code is by solving coding challenges.
-List of best coding challenges and resources to help new and intermediate developers improve their skills, prepare for interviews, and progress in their careers. The ordering of the list is based on level of difficulty (beginner to advanced).
+List of best coding challenges and resources to help new and intermediate developers improve their skills, prepare for interviews, and progress in their careers.
 
 Caso, você conheça algum desafio que não esteja listado aqui, adorariamos acrescentar em nossa lista.
 
