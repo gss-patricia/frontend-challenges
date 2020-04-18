@@ -66,6 +66,7 @@ Além do Javascript aqui você encontra outras linguagens. Escolha a linguagem e
   <li><a href="http://www.flexboxdefense.com/" target="_blank" title="Flexbox Defense">Flexbox Defense</a></li>
   <li><a href="http://www.dailyui.co/" target="_blank" title="Daily UI">Daily UI</a></li>
   <li><a href="https://frontloops.io/" target="_blank" title="Frontloops.io">Frontloops.io</a></li>
+  <li><a href="https://cssbattle.dev/" target="_blank" title="FCSS Battle">CSS Battle</a></li>  
 </ul>
 
 ## Desafios Algoritmos - várias linguagens
