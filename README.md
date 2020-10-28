@@ -77,8 +77,13 @@ Além do Javascript aqui você encontra outras linguagens. Escolha a linguagem e
 </ul>
 
 
-
 ## Git
 <ul>
   <li><a href="http://aprenda.vidageek.net/aprenda/git" target="_blank" title="Aprenda Git">Aprenda Git - vidageek</a></li>
+</ul>
+
+
+## Tests
+<ul>
+  <li><a href="https://testing-playground.com/" target="_blank" title="Testing Playground">Testing Playground - testing-library/DOM</a></li>
 </ul>
