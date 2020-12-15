@@ -14,9 +14,9 @@ Caso, você conheça algum desafio que não esteja listado aqui, adorariamos acr
 **Sumário**
 > Sumary
 
-- [Desafios Javascript](#desafios-javascript)
-- [Desafios CSS](#desafios-css)
-- [Desafios Outras Linguages](#desafios-outras-linguagens)
+- [Javascript](#desafios-javascript)
+- [CSS](#desafios-css)
+- [Other languages / technologies](#desafios-outras-linguagens)
 
 ## Desafios Outras Linguagens
 > Other languages challenges
