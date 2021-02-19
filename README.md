@@ -39,7 +39,8 @@ Além do Javascript aqui você encontra outras linguagens. Escolha a linguagem e
   <li><a href="http://devtoolschallenger.com/" target="_blank" title="DevTools Challenger">DevTools Challenger</a></li>
   <li><a href="https://www.codechef.com" target="_blank" title="Code Chef">Code Chef</a></li>
   <li><a href="https://practice.geeksforgeeks.org" target="_blank" title="Geeks for Geeks">Geeks for Geeks</a></li>
-  <li><a href="https://www.codenation.com.br/journey/" target="_blank" title="Codenation">Codenation (Data Science, Frontent, Backend, Mobile)</a></li>  
+  <li><a href="https://www.codenation.com.br/journey/" target="_blank" title="Codenation">Codenation (Data Science, Frontent, Backend, Mobile)</a></li> 
+  <li><a href="https://www.spoj.com/ " target="_blank" title="SPOJ">Learn new languages</a></li>
 </ul>
 
 ## Desafios Javascript
@@ -74,6 +75,7 @@ Além do Javascript aqui você encontra outras linguagens. Escolha a linguagem e
 <ul>
   <li><a href="https://leetcode.com" target="_blank" title="Leet Code">Leet Code</a></li>
   <li><a href="https://www.urionlinejudge.com.br" target="_blank" title="URI Online Judge">URI Online Judge</a></li>
+  <li><a href="https://www.spoj.com/r" target="_blank" title="SPOJ">Sphere Online Judge</a></li> 
 </ul>
 
 
