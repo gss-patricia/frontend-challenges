@@ -1,6 +1,6 @@
 # coding-challenges
 
-> Em constante evolução
+> constantly evolving
 
 Lista com os principais desafios Javascript, CSS e outras linguagens, pois acredito que aprender se divertindo é a melhor maneira.
 
@@ -41,6 +41,7 @@ Além do Javascript aqui você encontra outras linguagens. Escolha a linguagem e
   <li><a href="https://practice.geeksforgeeks.org" target="_blank" title="Geeks for Geeks">Geeks for Geeks</a></li>
   <li><a href="https://www.codenation.com.br/journey/" target="_blank" title="Codenation">Codenation (Data Science, Frontent, Backend, Mobile)</a></li> 
   <li><a href="https://www.spoj.com/ " target="_blank" title="SPOJ">Learn new languages</a></li>
+  <li><a href="https://www.codility.com/" target="_blank" title="Checkio">codility</a></li>
 </ul>
 
 ## Desafios Javascript
