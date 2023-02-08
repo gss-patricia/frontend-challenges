@@ -3,13 +3,13 @@
 
 A collection of the best coding challenges and resources to help new and intermediate developers improve their skills, prepare for interviews, and progress in their careers.
 
-## Table of Contents
+## Table of Contents 🔮
 
 - [Javascript](#javascript)
 - [CSS](#css)
 - [Other Languages](#other-languages)
 
-## Other Languages
+## Other Languages 🕷
 
 <ul>
   <li><a href="https://coderbyte.com/" target="_blank" title="Coder Byte">Coder Byte</a></li>
