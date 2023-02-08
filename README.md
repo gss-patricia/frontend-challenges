@@ -1,4 +1,4 @@
-# Coding Challenges
+# Coding Challenges 🕯
 > A curated list of online tools to improve their skills. 🚀🚀🚀
 
 A collection of the best coding challenges and resources to help new and intermediate developers improve their skills, prepare for interviews, and progress in their careers.
