@@ -82,6 +82,7 @@ Além do Javascript aqui você encontra outras linguagens. Escolha a linguagem e
 
 ## Git
 <ul>
+  <li><a href="https://learngitbranching.js.org/?locale=pt_BR" target="_blank" title="Learning branching">Learning branching</a></li>
   <li><a href="http://aprenda.vidageek.net/aprenda/git" target="_blank" title="Aprenda Git">Aprenda Git - vidageek</a></li>
 </ul>
 
