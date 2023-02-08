@@ -1,27 +1,15 @@
-# coding-challenges
+# Coding Challenges
+> A curated list of online tools to improve their skills. ✍️
 
-> constantly evolving
+A collection of the best coding challenges and resources to help new and intermediate developers improve their skills, prepare for interviews, and progress in their careers.
 
-Lista com os principais desafios Javascript, CSS e outras linguagens, pois acredito que aprender se divertindo é a melhor maneira.
+## Table of Contents
 
-> A great way to improve your skills when learning to code is by solving coding challenges.
-List of best coding challenges and resources to help new and intermediate developers improve their skills, prepare for interviews, and progress in their careers.
+- [Javascript](#javascript)
+- [CSS](#css)
+- [Other Languages](#other-languages)
 
-Caso, você conheça algum desafio que não esteja listado aqui, adorariamos acrescentar em nossa lista.
-
-> If you know of any challenges that aren't listed here, we would like to add it in our list.
-
-**Sumário**
-> Sumary
-
-- [Javascript](#desafios-javascript)
-- [CSS](#desafios-css)
-- [Other languages / technologies](#desafios-outras-linguagens)
-
-## Desafios Outras Linguagens
-> Other languages challenges
-
-Além do Javascript aqui você encontra outras linguagens. Escolha a linguagem e comece o desafio.
+## Other Languages
 
 <ul>
   <li><a href="https://coderbyte.com/" target="_blank" title="Coder Byte">Coder Byte</a></li>
@@ -44,8 +32,7 @@ Além do Javascript aqui você encontra outras linguagens. Escolha a linguagem e
   <li><a href="https://www.codility.com/" target="_blank" title="Checkio">codility</a></li>
 </ul>
 
-## Desafios Javascript
-> Javascript Challenges
+## Javascript
 
 <ul>
   <li><a href="https://www.codewars.com/" target="_blank" title="Code Wars">Code Wars</a></li>
@@ -55,9 +42,7 @@ Além do Javascript aqui você encontra outras linguagens. Escolha a linguagem e
   <li><a href="https://js.checkio.org/" target="_blank" title="JS Checkio">JS Checkio</a></li>
 </ul>
 
-
-## Desafios CSS
-> CSS Challenges
+## CSS
 
 <ul>
   <li><a href="http://flexboxfroggy.com/" target="_blank" title="Flexbox Froggy">Flexbox Froggy</a></li>
@@ -71,8 +56,8 @@ Além do Javascript aqui você encontra outras linguagens. Escolha a linguagem e
   <li><a href="https://cssbattle.dev/" target="_blank" title="FCSS Battle">CSS Battle</a></li>  
 </ul>
 
-## Desafios Algoritmos - várias linguagens
-> Algorithm Challenges - various languages
+## Algorithm Challenges
+
 <ul>
   <li><a href="https://leetcode.com" target="_blank" title="Leet Code">Leet Code</a></li>
   <li><a href="https://www.urionlinejudge.com.br" target="_blank" title="URI Online Judge">URI Online Judge</a></li>
