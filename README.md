@@ -1,5 +1,5 @@
 # Coding Challenges
-> A curated list of online tools to improve their skills. ✍️
+> A curated list of online tools to improve their skills. 🚀🚀🚀
 
 A collection of the best coding challenges and resources to help new and intermediate developers improve their skills, prepare for interviews, and progress in their careers.
 
@@ -32,7 +32,7 @@ A collection of the best coding challenges and resources to help new and interme
   <li><a href="https://www.codility.com/" target="_blank" title="Checkio">codility</a></li>
 </ul>
 
-## Javascript
+## Javascript ⚡
 
 <ul>
   <li><a href="https://www.codewars.com/" target="_blank" title="Code Wars">Code Wars</a></li>
@@ -42,7 +42,7 @@ A collection of the best coding challenges and resources to help new and interme
   <li><a href="https://js.checkio.org/" target="_blank" title="JS Checkio">JS Checkio</a></li>
 </ul>
 
-## CSS
+## CSS 💅
 
 <ul>
   <li><a href="http://flexboxfroggy.com/" target="_blank" title="Flexbox Froggy">Flexbox Froggy</a></li>
@@ -56,7 +56,7 @@ A collection of the best coding challenges and resources to help new and interme
   <li><a href="https://cssbattle.dev/" target="_blank" title="FCSS Battle">CSS Battle</a></li>  
 </ul>
 
-## Algorithm Challenges
+## Algorithm Challenges 😈
 
 <ul>
   <li><a href="https://leetcode.com" target="_blank" title="Leet Code">Leet Code</a></li>
@@ -64,15 +64,14 @@ A collection of the best coding challenges and resources to help new and interme
   <li><a href="https://www.spoj.com/r" target="_blank" title="SPOJ">Sphere Online Judge</a></li> 
 </ul>
 
-
-## Git
+## Git 💾
 <ul>
   <li><a href="https://learngitbranching.js.org/?locale=pt_BR" target="_blank" title="Learning branching">Learning branching</a></li>
   <li><a href="http://aprenda.vidageek.net/aprenda/git" target="_blank" title="Aprenda Git">Aprenda Git - vidageek</a></li>
 </ul>
 
 
-## Tests
+## Tests 🖲
 <ul>
   <li><a href="https://testing-playground.com/" target="_blank" title="Testing Playground">Testing Playground - testing-library/DOM</a></li>
 </ul>
